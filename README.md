@@ -1,7 +1,5 @@
 # website
 
-This is an initializr website.
-This is cool
 check 01 - merge 01
 check 02 - select 02
 update 01 - merge 01 stored
