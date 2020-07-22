@@ -2,6 +2,7 @@
 
 This is an initializr website.
 This is cool
+check 01 - merge 01
 update 01 - merge 01 stored
 update 02 - merge Generate Lorem Ipsum placeholder text.
 update 03 - merge Select the number of characters, words, sentences or paragraphs, and hit generate!
