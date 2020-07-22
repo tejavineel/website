@@ -8,3 +8,4 @@ update 03 - merge Select the number of characters, words, sentences or paragraph
 update 04 - merge 04 final update
 resolved
 master 01 - master selected
+master 02 - selected check
