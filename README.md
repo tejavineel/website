@@ -2,4 +2,5 @@
 
 This is an initializr website.
 This is cool
-stored - update 01
+update 01 - stored
+update 02 - Generate Lorem Ipsum placeholder text.
